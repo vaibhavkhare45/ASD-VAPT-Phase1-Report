@@ -52,7 +52,7 @@ A hybrid manual and automated testing approach was used to identify, validate, a
 ---
 
 ## 📄 Report
-📎 [Download Full Report (PDF)](./Testing_Phase1_ASD.pdf)
+📎 [Download Full Report (PDF)]([./Testing_Phase1_ASD.pdf](https://github.com/vaibhavkhare45/ASD-VAPT-Phase1-Report/blob/main/Testing%20phase%201%20ASD.pdf.pdf))
 
 ---
 
